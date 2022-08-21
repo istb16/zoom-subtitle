@@ -5,7 +5,7 @@
 
 <Router>
   <nav>
-    <Link to="/">ホーム</Link>
+    <Link to="./">ホーム</Link>
   </nav>
   <main>
     <h1>Zoom字幕</h1>

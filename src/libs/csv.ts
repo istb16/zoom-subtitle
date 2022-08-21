@@ -14,3 +14,7 @@ export const exportCsv = (
   link.click();
   document.body.removeChild(link);
 };
+
+export const importCsv = (file: Blob | File) => {
+  
+};
