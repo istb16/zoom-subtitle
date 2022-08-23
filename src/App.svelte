@@ -9,7 +9,7 @@
   </nav>
   <main>
     <h1>Zoom字幕</h1>
-    <Route path="/" component={Home} />
+    <Route path="" component={Home} />
   </main>
   <style lang="sass">
 
